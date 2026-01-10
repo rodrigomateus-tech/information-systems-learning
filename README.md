@@ -47,4 +47,4 @@ Here you will find academic and personal projects focused on learning, practice,
 ---
 
 📫 **Contact:**  
-- LinkedIn: https://linkedin.com/in/SEU-LINK
+- LinkedIn: https://www.linkedin.com/in/rodrigo-mateus-5b82a3250/
