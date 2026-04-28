@@ -39,7 +39,7 @@ I am currently looking for **Internships, Junior, and Analyst** roles where I ca
 ![Networking](https://img.shields.io/badge/Networking-05122A?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Security-1A1A1A?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-** Currently Learning (Fullstack Journey):**
+**Currently Learning (Fullstack Journey):**
 `Node.js` • `React` • `Databases (SQL/NoSQL)` • `API Integration`
 
 **Core Competencies:**
