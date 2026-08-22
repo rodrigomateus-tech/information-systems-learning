@@ -89,10 +89,10 @@ Beyond my technical work, I actively engage with the tech community, education i
 ---
 
 ### Languages
-- **Portuguese:** Native
-- **English:** Intermediate
-- **Spanish:** Basic
-- **Italian:** Basic
+- **Portuguese:** C2 - Native
+- **English:** B2 - Advanced
+- **Spanish:** B1 - intermediary
+- **Italian:** A2 - Basic
 
 ---
 
